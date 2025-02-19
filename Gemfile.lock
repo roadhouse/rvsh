@@ -333,6 +333,7 @@ DEPENDENCIES
   brakeman
   bundler-audit
   debug
+  dotenv (>= 3.0)
   kamal
   puma (>= 5.0)
   rails (~> 8.0.1)
